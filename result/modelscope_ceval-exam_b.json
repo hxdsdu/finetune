@@ -1,0 +1,240 @@
+{
+    "name": "ceval",
+    "metric": "WeightedAverageAccuracy",
+    "score": 0.6077,
+    "category": [
+        {
+            "name": "Humanities",
+            "score": 0.6364,
+            "subset": [
+                {
+                    "name": "modern_chinese_history",
+                    "score": 1.0
+                },
+                {
+                    "name": "ideological_and_moral_cultivation",
+                    "score": 0.8
+                },
+                {
+                    "name": "logic",
+                    "score": 0.5
+                },
+                {
+                    "name": "law",
+                    "score": 0.3
+                },
+                {
+                    "name": "chinese_language_and_literature",
+                    "score": 0.4
+                },
+                {
+                    "name": "art_studies",
+                    "score": 0.4
+                },
+                {
+                    "name": "professional_tour_guide",
+                    "score": 0.8
+                },
+                {
+                    "name": "legal_professional",
+                    "score": 0.8
+                },
+                {
+                    "name": "high_school_chinese",
+                    "score": 0.6
+                },
+                {
+                    "name": "high_school_history",
+                    "score": 0.6
+                },
+                {
+                    "name": "middle_school_history",
+                    "score": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Other",
+            "score": 0.5273,
+            "subset": [
+                {
+                    "name": "civil_servant",
+                    "score": 0.6
+                },
+                {
+                    "name": "sports_science",
+                    "score": 0.4
+                },
+                {
+                    "name": "plant_protection",
+                    "score": 0.6
+                },
+                {
+                    "name": "basic_medicine",
+                    "score": 0.6
+                },
+                {
+                    "name": "clinical_medicine",
+                    "score": 0.7
+                },
+                {
+                    "name": "urban_and_rural_planner",
+                    "score": 0.5
+                },
+                {
+                    "name": "accountant",
+                    "score": 0.6
+                },
+                {
+                    "name": "fire_engineer",
+                    "score": 0.4
+                },
+                {
+                    "name": "environmental_impact_assessment_engineer",
+                    "score": 0.3
+                },
+                {
+                    "name": "tax_accountant",
+                    "score": 0.5
+                },
+                {
+                    "name": "physician",
+                    "score": 0.6
+                }
+            ]
+        },
+        {
+            "name": "STEM",
+            "score": 0.57,
+            "subset": [
+                {
+                    "name": "computer_network",
+                    "score": 0.4
+                },
+                {
+                    "name": "operating_system",
+                    "score": 0.5
+                },
+                {
+                    "name": "computer_architecture",
+                    "score": 0.6
+                },
+                {
+                    "name": "college_programming",
+                    "score": 0.6
+                },
+                {
+                    "name": "college_physics",
+                    "score": 0.5
+                },
+                {
+                    "name": "college_chemistry",
+                    "score": 0.4
+                },
+                {
+                    "name": "advanced_mathematics",
+                    "score": 0.1
+                },
+                {
+                    "name": "probability_and_statistics",
+                    "score": 0.3
+                },
+                {
+                    "name": "discrete_mathematics",
+                    "score": 0.4
+                },
+                {
+                    "name": "electrical_engineer",
+                    "score": 0.7
+                },
+                {
+                    "name": "metrology_engineer",
+                    "score": 0.8
+                },
+                {
+                    "name": "high_school_mathematics",
+                    "score": 0.4
+                },
+                {
+                    "name": "high_school_physics",
+                    "score": 0.7
+                },
+                {
+                    "name": "high_school_chemistry",
+                    "score": 0.7
+                },
+                {
+                    "name": "high_school_biology",
+                    "score": 0.6
+                },
+                {
+                    "name": "middle_school_mathematics",
+                    "score": 0.5
+                },
+                {
+                    "name": "middle_school_biology",
+                    "score": 0.9
+                },
+                {
+                    "name": "middle_school_physics",
+                    "score": 0.8
+                },
+                {
+                    "name": "middle_school_chemistry",
+                    "score": 0.9
+                },
+                {
+                    "name": "veterinary_medicine",
+                    "score": 0.6
+                }
+            ]
+        },
+        {
+            "name": "Social Science",
+            "score": 0.74,
+            "subset": [
+                {
+                    "name": "college_economics",
+                    "score": 0.7
+                },
+                {
+                    "name": "business_administration",
+                    "score": 0.6
+                },
+                {
+                    "name": "marxism",
+                    "score": 0.8
+                },
+                {
+                    "name": "mao_zedong_thought",
+                    "score": 0.8
+                },
+                {
+                    "name": "education_science",
+                    "score": 0.7
+                },
+                {
+                    "name": "teacher_qualification",
+                    "score": 0.7
+                },
+                {
+                    "name": "high_school_politics",
+                    "score": 0.8
+                },
+                {
+                    "name": "high_school_geography",
+                    "score": 0.7
+                },
+                {
+                    "name": "middle_school_politics",
+                    "score": 0.8
+                },
+                {
+                    "name": "middle_school_geography",
+                    "score": 0.8
+                }
+            ]
+        }
+    ],
+    "total_num": 520
+}

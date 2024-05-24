@@ -1,0 +1,260 @@
+{
+    "name": "mmlu",
+    "metric": "WeightedAverageAccuracy",
+    "score": 0.4035,
+    "category": [
+        {
+            "name": "Humanities",
+            "score": 0.3846,
+            "subset": [
+                {
+                    "name": "high_school_european_history",
+                    "score": 0.5
+                },
+                {
+                    "name": "high_school_us_history",
+                    "score": 0.8
+                },
+                {
+                    "name": "high_school_world_history",
+                    "score": 0.4
+                },
+                {
+                    "name": "philosophy",
+                    "score": 0.5
+                },
+                {
+                    "name": "prehistory",
+                    "score": 0.3
+                },
+                {
+                    "name": "logical_fallacies",
+                    "score": 0.5
+                },
+                {
+                    "name": "formal_logic",
+                    "score": 0.4
+                },
+                {
+                    "name": "international_law",
+                    "score": 0.2
+                },
+                {
+                    "name": "professional_law",
+                    "score": 0.2
+                },
+                {
+                    "name": "jurisprudence",
+                    "score": 0.3
+                },
+                {
+                    "name": "world_religions",
+                    "score": 0.4
+                },
+                {
+                    "name": "moral_scenarios",
+                    "score": 0.3
+                },
+                {
+                    "name": "moral_disputes",
+                    "score": 0.2
+                }
+            ]
+        },
+        {
+            "name": "Other",
+            "score": 0.4714,
+            "subset": [
+                {
+                    "name": "business_ethics",
+                    "score": 0.2
+                },
+                {
+                    "name": "clinical_knowledge",
+                    "score": 0.7
+                },
+                {
+                    "name": "medical_genetics",
+                    "score": 0.5
+                },
+                {
+                    "name": "virology",
+                    "score": 0.4
+                },
+                {
+                    "name": "professional_accounting",
+                    "score": 0.4
+                },
+                {
+                    "name": "professional_medicine",
+                    "score": 0.2
+                },
+                {
+                    "name": "nutrition",
+                    "score": 0.6
+                },
+                {
+                    "name": "global_facts",
+                    "score": 0.2
+                },
+                {
+                    "name": "anatomy",
+                    "score": 0.4
+                },
+                {
+                    "name": "college_medicine",
+                    "score": 0.5
+                },
+                {
+                    "name": "human_aging",
+                    "score": 0.5
+                },
+                {
+                    "name": "miscellaneous",
+                    "score": 0.5
+                },
+                {
+                    "name": "marketing",
+                    "score": 0.7
+                },
+                {
+                    "name": "management",
+                    "score": 0.8
+                }
+            ]
+        },
+        {
+            "name": "STEM",
+            "score": 0.3167,
+            "subset": [
+                {
+                    "name": "high_school_physics",
+                    "score": 0.2
+                },
+                {
+                    "name": "college_computer_science",
+                    "score": 0.4
+                },
+                {
+                    "name": "high_school_biology",
+                    "score": 0.5
+                },
+                {
+                    "name": "abstract_algebra",
+                    "score": 0.1
+                },
+                {
+                    "name": "machine_learning",
+                    "score": 0.1
+                },
+                {
+                    "name": "college_chemistry",
+                    "score": 0.2
+                },
+                {
+                    "name": "elementary_mathematics",
+                    "score": 0.3
+                },
+                {
+                    "name": "college_mathematics",
+                    "score": 0.3
+                },
+                {
+                    "name": "high_school_statistics",
+                    "score": 0.1
+                },
+                {
+                    "name": "high_school_mathematics",
+                    "score": 0.3
+                },
+                {
+                    "name": "high_school_computer_science",
+                    "score": 0.6
+                },
+                {
+                    "name": "conceptual_physics",
+                    "score": 0.5
+                },
+                {
+                    "name": "high_school_chemistry",
+                    "score": 0.3
+                },
+                {
+                    "name": "college_physics",
+                    "score": 0.1
+                },
+                {
+                    "name": "computer_security",
+                    "score": 0.6
+                },
+                {
+                    "name": "electrical_engineering",
+                    "score": 0.2
+                },
+                {
+                    "name": "astronomy",
+                    "score": 0.6
+                },
+                {
+                    "name": "college_biology",
+                    "score": 0.3
+                }
+            ]
+        },
+        {
+            "name": "Social Science",
+            "score": 0.475,
+            "subset": [
+                {
+                    "name": "high_school_microeconomics",
+                    "score": 0.4
+                },
+                {
+                    "name": "econometrics",
+                    "score": 0.4
+                },
+                {
+                    "name": "security_studies",
+                    "score": 0.5
+                },
+                {
+                    "name": "public_relations",
+                    "score": 0.3
+                },
+                {
+                    "name": "professional_psychology",
+                    "score": 0.4
+                },
+                {
+                    "name": "human_sexuality",
+                    "score": 0.5
+                },
+                {
+                    "name": "high_school_government_and_politics",
+                    "score": 0.7
+                },
+                {
+                    "name": "high_school_geography",
+                    "score": 0.5
+                },
+                {
+                    "name": "high_school_psychology",
+                    "score": 0.4
+                },
+                {
+                    "name": "sociology",
+                    "score": 0.7
+                },
+                {
+                    "name": "us_foreign_policy",
+                    "score": 0.5
+                },
+                {
+                    "name": "high_school_macroeconomics",
+                    "score": 0.4
+                }
+            ]
+        }
+    ],
+    "total_num": 570
+}
